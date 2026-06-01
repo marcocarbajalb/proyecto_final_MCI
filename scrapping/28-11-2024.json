@@ -1,0 +1,4648 @@
+{
+    "ContinuationToken": null,
+    "ContinuationHash": null,
+    "Results": [
+        {
+            "IdTeam": "43922",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Argentina"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23915",
+            "RankingMovement": 0,
+            "ConfederationName": "CONMEBOL",
+            "IdCountry": "ARG",
+            "RatedMatches": 58,
+            "Rank": 1,
+            "PrevRank": 1,
+            "TotalPoints": 1867.25,
+            "PrevPoints": 1883.5,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43946",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "France"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "FRA",
+            "RatedMatches": 56,
+            "Rank": 2,
+            "PrevRank": 2,
+            "TotalPoints": 1859.78,
+            "PrevPoints": 1859.85,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43969",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Spain"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "ESP",
+            "RatedMatches": 57,
+            "Rank": 3,
+            "PrevRank": 3,
+            "TotalPoints": 1853.27,
+            "PrevPoints": 1844.33,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43942",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "England"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "ENG",
+            "RatedMatches": 59,
+            "Rank": 4,
+            "PrevRank": 4,
+            "TotalPoints": 1813.81,
+            "PrevPoints": 1807.83,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43924",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Brazil"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23915",
+            "RankingMovement": 0,
+            "ConfederationName": "CONMEBOL",
+            "IdCountry": "BRA",
+            "RatedMatches": 52,
+            "Rank": 5,
+            "PrevRank": 5,
+            "TotalPoints": 1775.85,
+            "PrevPoints": 1784.37,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43963",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Portugal"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "POR",
+            "RatedMatches": 55,
+            "Rank": 6,
+            "PrevRank": 7,
+            "TotalPoints": 1756.12,
+            "PrevPoints": 1752.68,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43960",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Netherlands"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "NED",
+            "RatedMatches": 55,
+            "Rank": 7,
+            "PrevRank": 8,
+            "TotalPoints": 1747.55,
+            "PrevPoints": 1748.24,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43935",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Belgium"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -2,
+            "ConfederationName": "UEFA",
+            "IdCountry": "BEL",
+            "RatedMatches": 53,
+            "Rank": 8,
+            "PrevRank": 6,
+            "TotalPoints": 1740.62,
+            "PrevPoints": 1761.27,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43954",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Italy"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "ITA",
+            "RatedMatches": 54,
+            "Rank": 9,
+            "PrevRank": 9,
+            "TotalPoints": 1731.51,
+            "PrevPoints": 1729.4,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43948",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Germany"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "GER",
+            "RatedMatches": 53,
+            "Rank": 10,
+            "PrevRank": 11,
+            "TotalPoints": 1703.79,
+            "PrevPoints": 1703.59,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43930",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Uruguay"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23915",
+            "RankingMovement": 3,
+            "ConfederationName": "CONMEBOL",
+            "IdCountry": "URU",
+            "RatedMatches": 50,
+            "Rank": 11,
+            "PrevRank": 14,
+            "TotalPoints": 1695.91,
+            "PrevPoints": 1680.36,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43926",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Colombia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23915",
+            "RankingMovement": -2,
+            "ConfederationName": "CONMEBOL",
+            "IdCountry": "COL",
+            "RatedMatches": 55,
+            "Rank": 12,
+            "PrevRank": 10,
+            "TotalPoints": 1694.44,
+            "PrevPoints": 1724.37,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43938",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Croatia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "CRO",
+            "RatedMatches": 55,
+            "Rank": 13,
+            "PrevRank": 12,
+            "TotalPoints": 1691.59,
+            "PrevPoints": 1701.36,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43872",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Morocco"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -1,
+            "ConfederationName": "CAF",
+            "IdCountry": "MAR",
+            "RatedMatches": 64,
+            "Rank": 14,
+            "PrevRank": 13,
+            "TotalPoints": 1688.18,
+            "PrevPoints": 1681.57,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43819",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Japan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "JPN",
+            "RatedMatches": 56,
+            "Rank": 15,
+            "PrevRank": 15,
+            "TotalPoints": 1652.79,
+            "PrevPoints": 1645.09,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43921",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "USA"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 2,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "USA",
+            "RatedMatches": 69,
+            "Rank": 16,
+            "PrevRank": 18,
+            "TotalPoints": 1645.48,
+            "PrevPoints": 1630.97,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43879",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Senegal"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 3,
+            "ConfederationName": "CAF",
+            "IdCountry": "SEN",
+            "RatedMatches": 69,
+            "Rank": 17,
+            "PrevRank": 20,
+            "TotalPoints": 1637.25,
+            "PrevPoints": 1627.13,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43817",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "IR Iran"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "IRN",
+            "RatedMatches": 48,
+            "Rank": 18,
+            "PrevRank": 19,
+            "TotalPoints": 1635.31,
+            "PrevPoints": 1627.58,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43911",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Mexico"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -3,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "MEX",
+            "RatedMatches": 76,
+            "Rank": 19,
+            "PrevRank": 16,
+            "TotalPoints": 1627.4,
+            "PrevPoints": 1640.67,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43971",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Switzerland"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -3,
+            "ConfederationName": "UEFA",
+            "IdCountry": "SUI",
+            "RatedMatches": 55,
+            "Rank": 20,
+            "PrevRank": 17,
+            "TotalPoints": 1625.16,
+            "PrevPoints": 1631.38,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43941",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Denmark"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "DEN",
+            "RatedMatches": 53,
+            "Rank": 21,
+            "PrevRank": 21,
+            "TotalPoints": 1611.49,
+            "PrevPoints": 1617.34,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43934",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Austria"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "AUT",
+            "RatedMatches": 50,
+            "Rank": 22,
+            "PrevRank": 23,
+            "TotalPoints": 1589.84,
+            "PrevPoints": 1589.17,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43822",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Korea Republic"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -1,
+            "ConfederationName": "AFC",
+            "IdCountry": "KOR",
+            "RatedMatches": 57,
+            "Rank": 23,
+            "PrevRank": 22,
+            "TotalPoints": 1585.45,
+            "PrevPoints": 1589.93,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43927",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Ecuador"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23915",
+            "RankingMovement": 3,
+            "ConfederationName": "CONMEBOL",
+            "IdCountry": "ECU",
+            "RatedMatches": 56,
+            "Rank": 24,
+            "PrevRank": 27,
+            "TotalPoints": 1560.13,
+            "PrevPoints": 1536.32,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43973",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Ukraine"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "UKR",
+            "RatedMatches": 48,
+            "Rank": 25,
+            "PrevRank": 25,
+            "TotalPoints": 1554.94,
+            "PrevPoints": 1552.37,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43976",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Australia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -2,
+            "ConfederationName": "AFC",
+            "IdCountry": "AUS",
+            "RatedMatches": 47,
+            "Rank": 26,
+            "PrevRank": 24,
+            "TotalPoints": 1544.15,
+            "PrevPoints": 1552.77,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43970",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Sweden"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "SWE",
+            "RatedMatches": 49,
+            "Rank": 27,
+            "PrevRank": 28,
+            "TotalPoints": 1540.2,
+            "PrevPoints": 1530.41,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43972",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Türkiye"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -2,
+            "ConfederationName": "UEFA",
+            "IdCountry": "TUR",
+            "RatedMatches": 51,
+            "Rank": 28,
+            "PrevRank": 26,
+            "TotalPoints": 1537.24,
+            "PrevPoints": 1548.15,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43974",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Wales"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "WAL",
+            "RatedMatches": 48,
+            "Rank": 29,
+            "PrevRank": 29,
+            "TotalPoints": 1534.39,
+            "PrevPoints": 1528.96,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43950",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Hungary"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 2,
+            "ConfederationName": "UEFA",
+            "IdCountry": "HUN",
+            "RatedMatches": 48,
+            "Rank": 30,
+            "PrevRank": 32,
+            "TotalPoints": 1517.57,
+            "PrevPoints": 1519.33,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43899",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Canada"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 4,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "CAN",
+            "RatedMatches": 57,
+            "Rank": 31,
+            "PrevRank": 35,
+            "TotalPoints": 1515.96,
+            "PrevPoints": 1507.27,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "1902465",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Serbia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "SRB",
+            "RatedMatches": 50,
+            "Rank": 32,
+            "PrevRank": 33,
+            "TotalPoints": 1514.28,
+            "PrevPoints": 1511.16,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43855",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Egypt"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -3,
+            "ConfederationName": "CAF",
+            "IdCountry": "EGY",
+            "RatedMatches": 54,
+            "Rank": 33,
+            "PrevRank": 30,
+            "TotalPoints": 1513.48,
+            "PrevPoints": 1526.25,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43965",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Russia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "RUS",
+            "RatedMatches": 27,
+            "Rank": 34,
+            "PrevRank": 34,
+            "TotalPoints": 1512.32,
+            "PrevPoints": 1508.73,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43962",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Poland"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -4,
+            "ConfederationName": "UEFA",
+            "IdCountry": "POL",
+            "RatedMatches": 51,
+            "Rank": 35,
+            "PrevRank": 31,
+            "TotalPoints": 1510.62,
+            "PrevPoints": 1523.19,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43914",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Panama"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 3,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "PAN",
+            "RatedMatches": 61,
+            "Rank": 36,
+            "PrevRank": 39,
+            "TotalPoints": 1504.39,
+            "PrevPoints": 1493.8,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43843",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Algeria"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 0,
+            "ConfederationName": "CAF",
+            "IdCountry": "ALG",
+            "RatedMatches": 60,
+            "Rank": 37,
+            "PrevRank": 37,
+            "TotalPoints": 1495.85,
+            "PrevPoints": 1496.94,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43964",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Romania"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 5,
+            "ConfederationName": "UEFA",
+            "IdCountry": "ROU",
+            "RatedMatches": 46,
+            "Rank": 38,
+            "PrevRank": 43,
+            "TotalPoints": 1494.2,
+            "PrevPoints": 1487.22,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43949",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Greece"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 3,
+            "ConfederationName": "UEFA",
+            "IdCountry": "GRE",
+            "RatedMatches": 42,
+            "Rank": 39,
+            "PrevRank": 42,
+            "TotalPoints": 1489.88,
+            "PrevPoints": 1487.42,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43929",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Peru"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23915",
+            "RankingMovement": -2,
+            "ConfederationName": "CONMEBOL",
+            "IdCountry": "PER",
+            "RatedMatches": 52,
+            "Rank": 40,
+            "PrevRank": 38,
+            "TotalPoints": 1488.42,
+            "PrevPoints": 1494.24,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44002",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Slovakia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "SVK",
+            "RatedMatches": 49,
+            "Rank": 41,
+            "PrevRank": 41,
+            "TotalPoints": 1486.19,
+            "PrevPoints": 1489.88,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43995",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Czechia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 3,
+            "ConfederationName": "UEFA",
+            "IdCountry": "CZE",
+            "RatedMatches": 50,
+            "Rank": 42,
+            "PrevRank": 45,
+            "TotalPoints": 1484.88,
+            "PrevPoints": 1480.39,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43961",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Norway"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 5,
+            "ConfederationName": "UEFA",
+            "IdCountry": "NOR",
+            "RatedMatches": 42,
+            "Rank": 43,
+            "PrevRank": 48,
+            "TotalPoints": 1484.44,
+            "PrevPoints": 1473.5,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43876",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Nigeria"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -8,
+            "ConfederationName": "CAF",
+            "IdCountry": "NGA",
+            "RatedMatches": 51,
+            "Rank": 44,
+            "PrevRank": 36,
+            "TotalPoints": 1482.23,
+            "PrevPoints": 1503.29,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43967",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Scotland"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 6,
+            "ConfederationName": "UEFA",
+            "IdCountry": "SCO",
+            "RatedMatches": 48,
+            "Rank": 45,
+            "PrevRank": 51,
+            "TotalPoints": 1480.24,
+            "PrevPoints": 1461.34,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43854",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Côte d'Ivoire"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -6,
+            "ConfederationName": "CAF",
+            "IdCountry": "CIV",
+            "RatedMatches": 54,
+            "Rank": 46,
+            "PrevRank": 40,
+            "TotalPoints": 1478.47,
+            "PrevPoints": 1493.57,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43931",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Venezuela"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23915",
+            "RankingMovement": -3,
+            "ConfederationName": "CONMEBOL",
+            "IdCountry": "VEN",
+            "RatedMatches": 47,
+            "Rank": 47,
+            "PrevRank": 44,
+            "TotalPoints": 1475.71,
+            "PrevPoints": 1482.47,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43834",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Qatar"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -2,
+            "ConfederationName": "AFC",
+            "IdCountry": "QAT",
+            "RatedMatches": 70,
+            "Rank": 48,
+            "PrevRank": 46,
+            "TotalPoints": 1474.6,
+            "PrevPoints": 1478.6,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43849",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Cameroon"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 0,
+            "ConfederationName": "CAF",
+            "IdCountry": "CMR",
+            "RatedMatches": 56,
+            "Rank": 49,
+            "PrevRank": 49,
+            "TotalPoints": 1471.49,
+            "PrevPoints": 1472.12,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43925",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Chile"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23915",
+            "RankingMovement": 3,
+            "ConfederationName": "CONMEBOL",
+            "IdCountry": "CHI",
+            "RatedMatches": 51,
+            "Rank": 50,
+            "PrevRank": 53,
+            "TotalPoints": 1469.44,
+            "PrevPoints": 1455.22,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43869",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Mali"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 3,
+            "ConfederationName": "CAF",
+            "IdCountry": "MLI",
+            "RatedMatches": 57,
+            "Rank": 51,
+            "PrevRank": 54,
+            "TotalPoints": 1466.1,
+            "PrevPoints": 1454.84,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43888",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Tunisia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -5,
+            "ConfederationName": "CAF",
+            "IdCountry": "TUN",
+            "RatedMatches": 57,
+            "Rank": 52,
+            "PrevRank": 47,
+            "TotalPoints": 1464.42,
+            "PrevPoints": 1478.52,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43928",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Paraguay"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23915",
+            "RankingMovement": 2,
+            "ConfederationName": "CONMEBOL",
+            "IdCountry": "PAR",
+            "RatedMatches": 46,
+            "Rank": 53,
+            "PrevRank": 55,
+            "TotalPoints": 1458.26,
+            "PrevPoints": 1440.78,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43901",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Costa Rica"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -4,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "CRC",
+            "RatedMatches": 54,
+            "Rank": 54,
+            "PrevRank": 50,
+            "TotalPoints": 1454.99,
+            "PrevPoints": 1465.57,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43968",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Slovenia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -3,
+            "ConfederationName": "UEFA",
+            "IdCountry": "SVN",
+            "RatedMatches": 46,
+            "Rank": 55,
+            "PrevRank": 52,
+            "TotalPoints": 1454.25,
+            "PrevPoints": 1459.59,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43818",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Iraq"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "IRQ",
+            "RatedMatches": 55,
+            "Rank": 56,
+            "PrevRank": 56,
+            "TotalPoints": 1442.86,
+            "PrevPoints": 1434.4,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43883",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "South Africa"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 3,
+            "ConfederationName": "CAF",
+            "IdCountry": "RSA",
+            "RatedMatches": 61,
+            "Rank": 57,
+            "PrevRank": 60,
+            "TotalPoints": 1428.87,
+            "PrevPoints": 1415.98,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44005",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Uzbekistan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "UZB",
+            "RatedMatches": 44,
+            "Rank": 58,
+            "PrevRank": 58,
+            "TotalPoints": 1424.93,
+            "PrevPoints": 1429.26,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43835",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Saudi Arabia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "KSA",
+            "RatedMatches": 54,
+            "Rank": 59,
+            "PrevRank": 59,
+            "TotalPoints": 1406.56,
+            "PrevPoints": 1422.67,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43953",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Republic of Ireland"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 3,
+            "ConfederationName": "UEFA",
+            "IdCountry": "IRL",
+            "RatedMatches": 42,
+            "Rank": 60,
+            "PrevRank": 63,
+            "TotalPoints": 1400.22,
+            "PrevPoints": 1395.61,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20014",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Congo DR"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -4,
+            "ConfederationName": "CAF",
+            "IdCountry": "COD",
+            "RatedMatches": 50,
+            "Rank": 61,
+            "PrevRank": 57,
+            "TotalPoints": 1395.77,
+            "PrevPoints": 1431.3,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43910",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Jamaica"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -1,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "JAM",
+            "RatedMatches": 57,
+            "Rank": 62,
+            "PrevRank": 61,
+            "TotalPoints": 1390.85,
+            "PrevPoints": 1405.36,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43840",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "United Arab Emirates"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 5,
+            "ConfederationName": "AFC",
+            "IdCountry": "UAE",
+            "RatedMatches": 54,
+            "Rank": 63,
+            "PrevRank": 68,
+            "TotalPoints": 1385.57,
+            "PrevPoints": 1361.34,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43820",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Jordan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "JOR",
+            "RatedMatches": 56,
+            "Rank": 64,
+            "PrevRank": 64,
+            "TotalPoints": 1375.91,
+            "PrevPoints": 1380.75,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43932",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Albania"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "ALB",
+            "RatedMatches": 44,
+            "Rank": 65,
+            "PrevRank": 65,
+            "TotalPoints": 1375.57,
+            "PrevPoints": 1379.29,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43847",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Burkina Faso"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -4,
+            "ConfederationName": "CAF",
+            "IdCountry": "BFA",
+            "RatedMatches": 53,
+            "Rank": 66,
+            "PrevRank": 62,
+            "TotalPoints": 1373.76,
+            "PrevPoints": 1399.8,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44000",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "North Macedonia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 2,
+            "ConfederationName": "UEFA",
+            "IdCountry": "MKD",
+            "RatedMatches": 45,
+            "Rank": 67,
+            "PrevRank": 69,
+            "TotalPoints": 1368.96,
+            "PrevPoints": 1361.01,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43947",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Georgia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "GEO",
+            "RatedMatches": 44,
+            "Rank": 68,
+            "PrevRank": 67,
+            "TotalPoints": 1362.21,
+            "PrevPoints": 1365.56,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43945",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Finland"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -3,
+            "ConfederationName": "UEFA",
+            "IdCountry": "FIN",
+            "RatedMatches": 47,
+            "Rank": 69,
+            "PrevRank": 66,
+            "TotalPoints": 1361.53,
+            "PrevPoints": 1374.58,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43951",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Iceland"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "ISL",
+            "RatedMatches": 51,
+            "Rank": 70,
+            "PrevRank": 70,
+            "TotalPoints": 1355.1,
+            "PrevPoints": 1353.18,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43952",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Northern Ireland"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "NIR",
+            "RatedMatches": 40,
+            "Rank": 71,
+            "PrevRank": 71,
+            "TotalPoints": 1349.58,
+            "PrevPoints": 1345.06,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43850",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Cabo Verde"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 0,
+            "ConfederationName": "CAF",
+            "IdCountry": "CPV",
+            "RatedMatches": 46,
+            "Rank": 72,
+            "PrevRank": 72,
+            "TotalPoints": 1328.51,
+            "PrevPoints": 1340.87,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "1903356",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Montenegro"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 2,
+            "ConfederationName": "UEFA",
+            "IdCountry": "MNE",
+            "RatedMatches": 42,
+            "Rank": 73,
+            "PrevRank": 75,
+            "TotalPoints": 1326.76,
+            "PrevPoints": 1323.2,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44037",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Bosnia and Herzegovina"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "BIH",
+            "RatedMatches": 40,
+            "Rank": 74,
+            "PrevRank": 74,
+            "TotalPoints": 1326.69,
+            "PrevPoints": 1324.43,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43909",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Honduras"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 2,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "HON",
+            "RatedMatches": 55,
+            "Rank": 75,
+            "PrevRank": 77,
+            "TotalPoints": 1325.93,
+            "PrevPoints": 1312.66,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43984",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Israel"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 5,
+            "ConfederationName": "UEFA",
+            "IdCountry": "ISR",
+            "RatedMatches": 40,
+            "Rank": 76,
+            "PrevRank": 81,
+            "TotalPoints": 1322.25,
+            "PrevPoints": 1303.65,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43860",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Ghana"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -4,
+            "ConfederationName": "CAF",
+            "IdCountry": "GHA",
+            "RatedMatches": 56,
+            "Rank": 77,
+            "PrevRank": 73,
+            "TotalPoints": 1320.52,
+            "PrevPoints": 1338.73,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43861",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Guinea"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 0,
+            "ConfederationName": "CAF",
+            "IdCountry": "GUI",
+            "RatedMatches": 55,
+            "Rank": 78,
+            "PrevRank": 78,
+            "TotalPoints": 1311.88,
+            "PrevPoints": 1312.45,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43923",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Bolivia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23915",
+            "RankingMovement": 0,
+            "ConfederationName": "CONMEBOL",
+            "IdCountry": "BOL",
+            "RatedMatches": 48,
+            "Rank": 79,
+            "PrevRank": 79,
+            "TotalPoints": 1308.58,
+            "PrevPoints": 1312.36,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43831",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Oman"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "OMA",
+            "RatedMatches": 56,
+            "Rank": 80,
+            "PrevRank": 80,
+            "TotalPoints": 1306.67,
+            "PrevPoints": 1305.99,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43808",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Bahrain"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -5,
+            "ConfederationName": "AFC",
+            "IdCountry": "BHR",
+            "RatedMatches": 56,
+            "Rank": 81,
+            "PrevRank": 76,
+            "TotalPoints": 1305.52,
+            "PrevPoints": 1313.8,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43936",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Bulgaria"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 2,
+            "ConfederationName": "UEFA",
+            "IdCountry": "BUL",
+            "RatedMatches": 43,
+            "Rank": 82,
+            "PrevRank": 84,
+            "TotalPoints": 1301.04,
+            "PrevPoints": 1295.11,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43904",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "El Salvador"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 0,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "SLV",
+            "RatedMatches": 58,
+            "Rank": 83,
+            "PrevRank": 83,
+            "TotalPoints": 1300.81,
+            "PrevPoints": 1297.99,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43858",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Gabon"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 1,
+            "ConfederationName": "CAF",
+            "IdCountry": "GAB",
+            "RatedMatches": 33,
+            "Rank": 84,
+            "PrevRank": 85,
+            "TotalPoints": 1297.87,
+            "PrevPoints": 1294.11,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43844",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Angola"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -3,
+            "ConfederationName": "CAF",
+            "IdCountry": "ANG",
+            "RatedMatches": 54,
+            "Rank": 85,
+            "PrevRank": 82,
+            "TotalPoints": 1296.48,
+            "PrevPoints": 1298.75,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43908",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Haiti"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 0,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "HAI",
+            "RatedMatches": 31,
+            "Rank": 86,
+            "PrevRank": 86,
+            "TotalPoints": 1287.75,
+            "PrevPoints": 1283.67,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43891",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Zambia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 7,
+            "ConfederationName": "CAF",
+            "IdCountry": "ZAM",
+            "RatedMatches": 60,
+            "Rank": 87,
+            "PrevRank": 94,
+            "TotalPoints": 1279.24,
+            "PrevPoints": 1251.84,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43889",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Uganda"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -1,
+            "ConfederationName": "CAF",
+            "IdCountry": "UGA",
+            "RatedMatches": 47,
+            "Rank": 88,
+            "PrevRank": 87,
+            "TotalPoints": 1270.42,
+            "PrevPoints": 1269.79,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43978",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "New Zealand"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23916",
+            "RankingMovement": 2,
+            "ConfederationName": "OFC",
+            "IdCountry": "NZL",
+            "RatedMatches": 33,
+            "Rank": 89,
+            "PrevRank": 91,
+            "TotalPoints": 1269.83,
+            "PrevPoints": 1258.11,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43812",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "China PR"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 2,
+            "ConfederationName": "AFC",
+            "IdCountry": "CHN",
+            "RatedMatches": 42,
+            "Rank": 90,
+            "PrevRank": 92,
+            "TotalPoints": 1266.38,
+            "PrevPoints": 1257.29,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "1895293",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Curaçao"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -1,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "CUW",
+            "RatedMatches": 27,
+            "Rank": 91,
+            "PrevRank": 90,
+            "TotalPoints": 1264.78,
+            "PrevPoints": 1260.87,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43958",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Luxembourg"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -3,
+            "ConfederationName": "UEFA",
+            "IdCountry": "LUX",
+            "RatedMatches": 42,
+            "Rank": 92,
+            "PrevRank": 89,
+            "TotalPoints": 1256.42,
+            "PrevPoints": 1262.08,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43856",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Equatorial Guinea"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -5,
+            "ConfederationName": "CAF",
+            "IdCountry": "EQG",
+            "RatedMatches": 41,
+            "Rank": 93,
+            "PrevRank": 88,
+            "TotalPoints": 1256.2,
+            "PrevPoints": 1266.68,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43845",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Benin"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 1,
+            "ConfederationName": "CAF",
+            "IdCountry": "BEN",
+            "RatedMatches": 37,
+            "Rank": 94,
+            "PrevRank": 95,
+            "TotalPoints": 1250.99,
+            "PrevPoints": 1250.97,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43838",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Syria"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -2,
+            "ConfederationName": "AFC",
+            "IdCountry": "SYR",
+            "RatedMatches": 45,
+            "Rank": 95,
+            "PrevRank": 93,
+            "TotalPoints": 1249.47,
+            "PrevPoints": 1252.19,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43873",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Mozambique"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 2,
+            "ConfederationName": "CAF",
+            "IdCountry": "MOZ",
+            "RatedMatches": 59,
+            "Rank": 96,
+            "PrevRank": 98,
+            "TotalPoints": 1232.7,
+            "PrevPoints": 1229.01,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43839",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Thailand"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -1,
+            "ConfederationName": "AFC",
+            "IdCountry": "THA",
+            "RatedMatches": 55,
+            "Rank": 97,
+            "PrevRank": 96,
+            "TotalPoints": 1228.24,
+            "PrevPoints": 1231.75,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43937",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Belarus"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "BLR",
+            "RatedMatches": 41,
+            "Rank": 98,
+            "PrevRank": 97,
+            "TotalPoints": 1226.31,
+            "PrevPoints": 1231.1,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "1942535",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Kosovo"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 2,
+            "ConfederationName": "UEFA",
+            "IdCountry": "KOS",
+            "RatedMatches": 42,
+            "Rank": 99,
+            "PrevRank": 101,
+            "TotalPoints": 1219.82,
+            "PrevPoints": 1218.22,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43933",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Armenia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "ARM",
+            "RatedMatches": 42,
+            "Rank": 100,
+            "PrevRank": 99,
+            "TotalPoints": 1219.15,
+            "PrevPoints": 1222.74,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43989",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Palestine"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -1,
+            "ConfederationName": "AFC",
+            "IdCountry": "PLE",
+            "RatedMatches": 33,
+            "Rank": 101,
+            "PrevRank": 100,
+            "TotalPoints": 1215.87,
+            "PrevPoints": 1218.43,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43920",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Trinidad and Tobago"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 0,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "TRI",
+            "RatedMatches": 37,
+            "Rank": 102,
+            "PrevRank": 102,
+            "TotalPoints": 1214.81,
+            "PrevPoints": 1214.81,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "1896913",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Comoros"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 5,
+            "ConfederationName": "CAF",
+            "IdCountry": "COM",
+            "RatedMatches": 47,
+            "Rank": 103,
+            "PrevRank": 108,
+            "TotalPoints": 1208.99,
+            "PrevPoints": 1185.98,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44003",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Tajikistan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "TJK",
+            "RatedMatches": 40,
+            "Rank": 104,
+            "PrevRank": 105,
+            "TotalPoints": 1203.08,
+            "PrevPoints": 1196.98,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43906",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Guatemala"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -1,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "GUA",
+            "RatedMatches": 48,
+            "Rank": 105,
+            "PrevRank": 104,
+            "TotalPoints": 1201.35,
+            "PrevPoints": 1201.35,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43886",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Tanzania"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 6,
+            "ConfederationName": "CAF",
+            "IdCountry": "TAN",
+            "RatedMatches": 44,
+            "Rank": 106,
+            "PrevRank": 112,
+            "TotalPoints": 1199.33,
+            "PrevPoints": 1173.84,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43999",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Kyrgyz Republic"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -4,
+            "ConfederationName": "AFC",
+            "IdCountry": "KGZ",
+            "RatedMatches": 34,
+            "Rank": 107,
+            "PrevRank": 103,
+            "TotalPoints": 1194.19,
+            "PrevPoints": 1207.08,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43863",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Kenya"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -2,
+            "ConfederationName": "CAF",
+            "IdCountry": "KEN",
+            "RatedMatches": 32,
+            "Rank": 108,
+            "PrevRank": 106,
+            "TotalPoints": 1189.65,
+            "PrevPoints": 1195.36,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43870",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Mauritania"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 5,
+            "ConfederationName": "CAF",
+            "IdCountry": "MTN",
+            "RatedMatches": 54,
+            "Rank": 109,
+            "PrevRank": 114,
+            "TotalPoints": 1183.16,
+            "PrevPoints": 1168.44,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44027",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Kazakhstan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -3,
+            "ConfederationName": "UEFA",
+            "IdCountry": "KAZ",
+            "RatedMatches": 40,
+            "Rank": 110,
+            "PrevRank": 107,
+            "TotalPoints": 1180.18,
+            "PrevPoints": 1186.46,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43874",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Namibia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 2,
+            "ConfederationName": "CAF",
+            "IdCountry": "NAM",
+            "RatedMatches": 46,
+            "Rank": 111,
+            "PrevRank": 113,
+            "TotalPoints": 1179.26,
+            "PrevPoints": 1173.81,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43825",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Lebanon"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 3,
+            "ConfederationName": "AFC",
+            "IdCountry": "LBN",
+            "RatedMatches": 45,
+            "Rank": 112,
+            "PrevRank": 115,
+            "TotalPoints": 1168.1,
+            "PrevPoints": 1167.49,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43884",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Sudan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -3,
+            "ConfederationName": "CAF",
+            "IdCountry": "SDN",
+            "RatedMatches": 46,
+            "Rank": 113,
+            "PrevRank": 110,
+            "TotalPoints": 1165.41,
+            "PrevPoints": 1176.2,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43821",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Korea DPR"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -3,
+            "ConfederationName": "AFC",
+            "IdCountry": "PRK",
+            "RatedMatches": 12,
+            "Rank": 114,
+            "PrevRank": 111,
+            "TotalPoints": 1164.41,
+            "PrevPoints": 1175.14,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43867",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Madagascar"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -6,
+            "ConfederationName": "CAF",
+            "IdCountry": "MAD",
+            "RatedMatches": 44,
+            "Rank": 115,
+            "PrevRank": 109,
+            "TotalPoints": 1162.02,
+            "PrevPoints": 1180.0,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43841",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Vietnam"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 3,
+            "ConfederationName": "AFC",
+            "IdCountry": "VIE",
+            "RatedMatches": 49,
+            "Rank": 116,
+            "PrevRank": 119,
+            "TotalPoints": 1161.11,
+            "PrevPoints": 1161.11,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43994",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Azerbaijan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "AZE",
+            "RatedMatches": 42,
+            "Rank": 117,
+            "PrevRank": 118,
+            "TotalPoints": 1158.7,
+            "PrevPoints": 1161.8,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43866",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Libya"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 4,
+            "ConfederationName": "CAF",
+            "IdCountry": "LBY",
+            "RatedMatches": 45,
+            "Rank": 118,
+            "PrevRank": 122,
+            "TotalPoints": 1158.03,
+            "PrevPoints": 1148.7,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43887",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Togo"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 4,
+            "ConfederationName": "CAF",
+            "IdCountry": "TOG",
+            "RatedMatches": 39,
+            "Rank": 119,
+            "PrevRank": 123,
+            "TotalPoints": 1152.18,
+            "PrevPoints": 1147.91,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43862",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Guinea-Bissau"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -4,
+            "ConfederationName": "CAF",
+            "IdCountry": "GNB",
+            "RatedMatches": 40,
+            "Rank": 120,
+            "PrevRank": 116,
+            "TotalPoints": 1151.72,
+            "PrevPoints": 1166.34,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43892",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Zimbabwe"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -4,
+            "ConfederationName": "CAF",
+            "IdCountry": "ZIM",
+            "RatedMatches": 35,
+            "Rank": 121,
+            "PrevRank": 117,
+            "TotalPoints": 1151.06,
+            "PrevPoints": 1162.48,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43875",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Niger"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 9,
+            "ConfederationName": "CAF",
+            "IdCountry": "NIG",
+            "RatedMatches": 46,
+            "Rank": 122,
+            "PrevRank": 131,
+            "TotalPoints": 1145.96,
+            "PrevPoints": 1114.73,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43943",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Estonia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "EST",
+            "RatedMatches": 46,
+            "Rank": 123,
+            "PrevRank": 124,
+            "TotalPoints": 1142.53,
+            "PrevPoints": 1145.52,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43877",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Rwanda"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 2,
+            "ConfederationName": "CAF",
+            "IdCountry": "RWA",
+            "RatedMatches": 39,
+            "Rank": 124,
+            "PrevRank": 126,
+            "TotalPoints": 1136.06,
+            "PrevPoints": 1130.04,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43816",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Indonesia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 5,
+            "ConfederationName": "AFC",
+            "IdCountry": "IDN",
+            "RatedMatches": 54,
+            "Rank": 125,
+            "PrevRank": 130,
+            "TotalPoints": 1135.11,
+            "PrevPoints": 1118.87,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43859",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "The Gambia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 2,
+            "ConfederationName": "CAF",
+            "IdCountry": "GAM",
+            "RatedMatches": 38,
+            "Rank": 126,
+            "PrevRank": 128,
+            "TotalPoints": 1134.69,
+            "PrevPoints": 1125.62,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43815",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "India"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -2,
+            "ConfederationName": "AFC",
+            "IdCountry": "IND",
+            "RatedMatches": 46,
+            "Rank": 127,
+            "PrevRank": 125,
+            "TotalPoints": 1133.62,
+            "PrevPoints": 1133.78,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43853",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Congo"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -8,
+            "ConfederationName": "CAF",
+            "IdCountry": "CGO",
+            "RatedMatches": 35,
+            "Rank": 128,
+            "PrevRank": 120,
+            "TotalPoints": 1132.65,
+            "PrevPoints": 1159.42,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43881",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Sierra Leone"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -8,
+            "ConfederationName": "CAF",
+            "IdCountry": "SLE",
+            "RatedMatches": 37,
+            "Rank": 129,
+            "PrevRank": 121,
+            "TotalPoints": 1132.06,
+            "PrevPoints": 1149.81,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43939",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Cyprus"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -3,
+            "ConfederationName": "UEFA",
+            "IdCountry": "CYP",
+            "RatedMatches": 42,
+            "Rank": 130,
+            "PrevRank": 127,
+            "TotalPoints": 1131.32,
+            "PrevPoints": 1127.51,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43868",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Malawi"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 3,
+            "ConfederationName": "CAF",
+            "IdCountry": "MWI",
+            "RatedMatches": 46,
+            "Rank": 131,
+            "PrevRank": 134,
+            "TotalPoints": 1129.31,
+            "PrevPoints": 1111.16,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43827",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Malaysia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "MAS",
+            "RatedMatches": 49,
+            "Rank": 132,
+            "PrevRank": 133,
+            "TotalPoints": 1117.05,
+            "PrevPoints": 1113.92,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43913",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Nicaragua"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -1,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "NCA",
+            "RatedMatches": 33,
+            "Rank": 133,
+            "PrevRank": 132,
+            "TotalPoints": 1114.28,
+            "PrevPoints": 1114.28,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43823",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Kuwait"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "KUW",
+            "RatedMatches": 50,
+            "Rank": 134,
+            "PrevRank": 135,
+            "TotalPoints": 1109.16,
+            "PrevPoints": 1106.42,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43851",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Central African Republic"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -6,
+            "ConfederationName": "CAF",
+            "IdCountry": "CTA",
+            "RatedMatches": 32,
+            "Rank": 135,
+            "PrevRank": 129,
+            "TotalPoints": 1102.23,
+            "PrevPoints": 1125.26,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43846",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Botswana"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 4,
+            "ConfederationName": "CAF",
+            "IdCountry": "BOT",
+            "RatedMatches": 43,
+            "Rank": 136,
+            "PrevRank": 140,
+            "TotalPoints": 1098.85,
+            "PrevPoints": 1088.45,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43944",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Faroe Islands"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "FRO",
+            "RatedMatches": 42,
+            "Rank": 137,
+            "PrevRank": 138,
+            "TotalPoints": 1096.88,
+            "PrevPoints": 1091.52,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43919",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Suriname"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -2,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "SUR",
+            "RatedMatches": 24,
+            "Rank": 138,
+            "PrevRank": 136,
+            "TotalPoints": 1096.6,
+            "PrevPoints": 1105.29,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43848",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Burundi"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 0,
+            "ConfederationName": "CAF",
+            "IdCountry": "BDI",
+            "RatedMatches": 27,
+            "Rank": 139,
+            "PrevRank": 139,
+            "TotalPoints": 1087.26,
+            "PrevPoints": 1089.49,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43955",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Latvia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -3,
+            "ConfederationName": "UEFA",
+            "IdCountry": "LVA",
+            "RatedMatches": 43,
+            "Rank": 140,
+            "PrevRank": 137,
+            "TotalPoints": 1084.11,
+            "PrevPoints": 1093.82,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43903",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Dominican Republic"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 1,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "DOM",
+            "RatedMatches": 27,
+            "Rank": 141,
+            "PrevRank": 142,
+            "TotalPoints": 1083.36,
+            "PrevPoints": 1071.88,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43957",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Lithuania"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "LTU",
+            "RatedMatches": 42,
+            "Rank": 142,
+            "PrevRank": 141,
+            "TotalPoints": 1069.96,
+            "PrevPoints": 1082.36,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44004",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Turkmenistan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "TKM",
+            "RatedMatches": 18,
+            "Rank": 143,
+            "PrevRank": 144,
+            "TotalPoints": 1065.42,
+            "PrevPoints": 1065.42,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43916",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "St Kitts and Nevis"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -1,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "SKN",
+            "RatedMatches": 25,
+            "Rank": 144,
+            "PrevRank": 143,
+            "TotalPoints": 1064.99,
+            "PrevPoints": 1069.25,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43865",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Liberia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 4,
+            "ConfederationName": "CAF",
+            "IdCountry": "LBR",
+            "RatedMatches": 33,
+            "Rank": 145,
+            "PrevRank": 149,
+            "TotalPoints": 1063.04,
+            "PrevPoints": 1048.86,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43857",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Ethiopia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 2,
+            "ConfederationName": "CAF",
+            "IdCountry": "ETH",
+            "RatedMatches": 44,
+            "Rank": 146,
+            "PrevRank": 148,
+            "TotalPoints": 1059.94,
+            "PrevPoints": 1049.28,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43977",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Fiji"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23916",
+            "RankingMovement": -1,
+            "ConfederationName": "OFC",
+            "IdCountry": "FIJ",
+            "RatedMatches": 23,
+            "Rank": 147,
+            "PrevRank": 146,
+            "TotalPoints": 1049.15,
+            "PrevPoints": 1051.41,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43980",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Solomon Islands"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23916",
+            "RankingMovement": -1,
+            "ConfederationName": "OFC",
+            "IdCountry": "SOL",
+            "RatedMatches": 26,
+            "Rank": 148,
+            "PrevRank": 147,
+            "TotalPoints": 1048.75,
+            "PrevPoints": 1050.99,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43833",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Philippines"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -4,
+            "ConfederationName": "AFC",
+            "IdCountry": "PHI",
+            "RatedMatches": 36,
+            "Rank": 149,
+            "PrevRank": 145,
+            "TotalPoints": 1047.73,
+            "PrevPoints": 1053.09,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43864",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Lesotho"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 2,
+            "ConfederationName": "CAF",
+            "IdCountry": "LES",
+            "RatedMatches": 43,
+            "Rank": 150,
+            "PrevRank": 152,
+            "TotalPoints": 1046.76,
+            "PrevPoints": 1032.79,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44036",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Moldova"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "MDA",
+            "RatedMatches": 44,
+            "Rank": 151,
+            "PrevRank": 150,
+            "TotalPoints": 1045.59,
+            "PrevPoints": 1040.83,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20010",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "New Caledonia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23916",
+            "RankingMovement": 3,
+            "ConfederationName": "OFC",
+            "IdCountry": "NCL",
+            "RatedMatches": 14,
+            "Rank": 152,
+            "PrevRank": 155,
+            "TotalPoints": 1034.43,
+            "PrevPoints": 1020.83,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43981",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Tahiti"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23916",
+            "RankingMovement": 6,
+            "ConfederationName": "OFC",
+            "IdCountry": "TAH",
+            "RatedMatches": 13,
+            "Rank": 153,
+            "PrevRank": 159,
+            "TotalPoints": 1031.47,
+            "PrevPoints": 1009.52,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43907",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Guyana"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 7,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "GUY",
+            "RatedMatches": 28,
+            "Rank": 154,
+            "PrevRank": 161,
+            "TotalPoints": 1030.6,
+            "PrevPoints": 1008.68,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20000",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Afghanistan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -4,
+            "ConfederationName": "AFC",
+            "IdCountry": "AFG",
+            "RatedMatches": 23,
+            "Rank": 155,
+            "PrevRank": 151,
+            "TotalPoints": 1025.0,
+            "PrevPoints": 1034.37,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43814",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Hong Kong, China"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 2,
+            "ConfederationName": "AFC",
+            "IdCountry": "HKG",
+            "RatedMatches": 36,
+            "Rank": 156,
+            "PrevRank": 158,
+            "TotalPoints": 1024.58,
+            "PrevPoints": 1015.1,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43915",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Puerto Rico"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -4,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "PUR",
+            "RatedMatches": 24,
+            "Rank": 157,
+            "PrevRank": 153,
+            "TotalPoints": 1022.83,
+            "PrevPoints": 1021.62,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43842",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Yemen"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -4,
+            "ConfederationName": "AFC",
+            "IdCountry": "YEM",
+            "RatedMatches": 20,
+            "Rank": 158,
+            "PrevRank": 154,
+            "TotalPoints": 1017.84,
+            "PrevPoints": 1021.24,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43885",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Eswatini"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 1,
+            "ConfederationName": "CAF",
+            "IdCountry": "SWZ",
+            "RatedMatches": 47,
+            "Rank": 159,
+            "PrevRank": 160,
+            "TotalPoints": 1015.25,
+            "PrevPoints": 1009.19,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "1882218",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Antigua and Barbuda"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -4,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "ATG",
+            "RatedMatches": 22,
+            "Rank": 160,
+            "PrevRank": 156,
+            "TotalPoints": 1010.97,
+            "PrevPoints": 1020.58,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43836",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Singapore"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "SGP",
+            "RatedMatches": 39,
+            "Rank": 161,
+            "PrevRank": 162,
+            "TotalPoints": 1007.83,
+            "PrevPoints": 1008.26,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43828",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Maldives"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "MDV",
+            "RatedMatches": 26,
+            "Rank": 162,
+            "PrevRank": 163,
+            "TotalPoints": 1001.39,
+            "PrevPoints": 1003.48,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43982",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Vanuatu"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23916",
+            "RankingMovement": -6,
+            "ConfederationName": "OFC",
+            "IdCountry": "VAN",
+            "RatedMatches": 22,
+            "Rank": 163,
+            "PrevRank": 157,
+            "TotalPoints": 996.21,
+            "PrevPoints": 1015.52,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43902",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Cuba"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 2,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "CUB",
+            "RatedMatches": 29,
+            "Rank": 164,
+            "PrevRank": 166,
+            "TotalPoints": 994.43,
+            "PrevPoints": 990.18,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43813",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Chinese Taipei"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 3,
+            "ConfederationName": "AFC",
+            "IdCountry": "TPE",
+            "RatedMatches": 20,
+            "Rank": 165,
+            "PrevRank": 168,
+            "TotalPoints": 990.92,
+            "PrevPoints": 985.66,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43898",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Bermuda"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 1,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "BER",
+            "RatedMatches": 26,
+            "Rank": 166,
+            "PrevRank": 167,
+            "TotalPoints": 988.19,
+            "PrevPoints": 986.53,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43829",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Myanmar"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": -2,
+            "ConfederationName": "AFC",
+            "IdCountry": "MYA",
+            "RatedMatches": 37,
+            "Rank": 167,
+            "PrevRank": 165,
+            "TotalPoints": 986.15,
+            "PrevPoints": 990.98,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43917",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "St Lucia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -4,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "LCA",
+            "RatedMatches": 14,
+            "Rank": 168,
+            "PrevRank": 164,
+            "TotalPoints": 985.72,
+            "PrevPoints": 997.86,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43959",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Malta"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "MLT",
+            "RatedMatches": 41,
+            "Rank": 169,
+            "PrevRank": 169,
+            "TotalPoints": 983.95,
+            "PrevPoints": 980.5,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "1935341",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "South Sudan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 2,
+            "ConfederationName": "CAF",
+            "IdCountry": "SSD",
+            "RatedMatches": 32,
+            "Rank": 170,
+            "PrevRank": 172,
+            "TotalPoints": 973.55,
+            "PrevPoints": 955.67,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20001",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Andorra"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -1,
+            "ConfederationName": "UEFA",
+            "IdCountry": "AND",
+            "RatedMatches": 42,
+            "Rank": 171,
+            "PrevRank": 170,
+            "TotalPoints": 971.54,
+            "PrevPoints": 977.96,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43979",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Papua New Guinea"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23916",
+            "RankingMovement": -1,
+            "ConfederationName": "OFC",
+            "IdCountry": "PNG",
+            "RatedMatches": 22,
+            "Rank": 172,
+            "PrevRank": 171,
+            "TotalPoints": 963.22,
+            "PrevPoints": 972.32,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43918",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "St Vincent and the Grenadines"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 1,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "VIN",
+            "RatedMatches": 26,
+            "Rank": 173,
+            "PrevRank": 174,
+            "TotalPoints": 961.92,
+            "PrevPoints": 954.86,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43905",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Grenada"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 1,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "GRN",
+            "RatedMatches": 28,
+            "Rank": 174,
+            "PrevRank": 175,
+            "TotalPoints": 955.44,
+            "PrevPoints": 947.22,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43830",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Nepal"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "NEP",
+            "RatedMatches": 39,
+            "Rank": 175,
+            "PrevRank": 176,
+            "TotalPoints": 939.2,
+            "PrevPoints": 935.93,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43852",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Chad"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 1,
+            "ConfederationName": "CAF",
+            "IdCountry": "CHA",
+            "RatedMatches": 18,
+            "Rank": 176,
+            "PrevRank": 177,
+            "TotalPoints": 935.41,
+            "PrevPoints": 933.39,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43896",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Barbados"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -4,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "BRB",
+            "RatedMatches": 25,
+            "Rank": 177,
+            "PrevRank": 173,
+            "TotalPoints": 933.3,
+            "PrevPoints": 955.21,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44011",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Belize"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 1,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "BLZ",
+            "RatedMatches": 19,
+            "Rank": 178,
+            "PrevRank": 179,
+            "TotalPoints": 925.02,
+            "PrevPoints": 925.02,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43871",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Mauritius"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": -1,
+            "ConfederationName": "CAF",
+            "IdCountry": "MRI",
+            "RatedMatches": 28,
+            "Rank": 179,
+            "PrevRank": 178,
+            "TotalPoints": 923.46,
+            "PrevPoints": 927.57,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44009",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Cambodia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "CAM",
+            "RatedMatches": 32,
+            "Rank": 180,
+            "PrevRank": 181,
+            "TotalPoints": 921.2,
+            "PrevPoints": 921.2,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20009",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Montserrat"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": -1,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "MSR",
+            "RatedMatches": 23,
+            "Rank": 181,
+            "PrevRank": 180,
+            "TotalPoints": 914.26,
+            "PrevPoints": 924.14,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20003",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Bhutan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "BHU",
+            "RatedMatches": 12,
+            "Rank": 182,
+            "PrevRank": 182,
+            "TotalPoints": 904.06,
+            "PrevPoints": 904.06,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43997",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Dominica"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 0,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "DMA",
+            "RatedMatches": 24,
+            "Rank": 183,
+            "PrevRank": 183,
+            "TotalPoints": 900.0,
+            "PrevPoints": 903.54,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43810",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Brunei Darussalam"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "BRU",
+            "RatedMatches": 22,
+            "Rank": 184,
+            "PrevRank": 184,
+            "TotalPoints": 899.87,
+            "PrevPoints": 900.75,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43809",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Bangladesh"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "BAN",
+            "RatedMatches": 42,
+            "Rank": 185,
+            "PrevRank": 185,
+            "TotalPoints": 898.81,
+            "PrevPoints": 896.71,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43824",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Laos"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "LAO",
+            "RatedMatches": 19,
+            "Rank": 186,
+            "PrevRank": 187,
+            "TotalPoints": 889.54,
+            "PrevPoints": 889.62,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20008",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Mongolia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "MNG",
+            "RatedMatches": 20,
+            "Rank": 187,
+            "PrevRank": 188,
+            "TotalPoints": 883.57,
+            "PrevPoints": 883.57,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20012",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "American Samoa"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23916",
+            "RankingMovement": 1,
+            "ConfederationName": "OFC",
+            "IdCountry": "ASA",
+            "RatedMatches": 5,
+            "Rank": 188,
+            "PrevRank": 189,
+            "TotalPoints": 883.17,
+            "PrevPoints": 883.17,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43878",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "São Tomé and Príncipe"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 1,
+            "ConfederationName": "CAF",
+            "IdCountry": "STP",
+            "RatedMatches": 16,
+            "Rank": 189,
+            "PrevRank": 190,
+            "TotalPoints": 878.09,
+            "PrevPoints": 878.09,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44007",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Cook Islands"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23916",
+            "RankingMovement": 1,
+            "ConfederationName": "OFC",
+            "IdCountry": "COK",
+            "RatedMatches": 9,
+            "Rank": 190,
+            "PrevRank": 191,
+            "TotalPoints": 877.53,
+            "PrevPoints": 877.53,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43996",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Djibouti"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 1,
+            "ConfederationName": "CAF",
+            "IdCountry": "DJI",
+            "RatedMatches": 26,
+            "Rank": 191,
+            "PrevRank": 192,
+            "TotalPoints": 877.37,
+            "PrevPoints": 875.13,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "1882637",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Samoa"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23916",
+            "RankingMovement": -6,
+            "ConfederationName": "OFC",
+            "IdCountry": "SAM",
+            "RatedMatches": 14,
+            "Rank": 192,
+            "PrevRank": 186,
+            "TotalPoints": 876.41,
+            "PrevPoints": 890.77,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43826",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Macau"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "MAC",
+            "RatedMatches": 8,
+            "Rank": 193,
+            "PrevRank": 193,
+            "TotalPoints": 871.52,
+            "PrevPoints": 871.52,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43900",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Cayman Islands"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 0,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "CAY",
+            "RatedMatches": 19,
+            "Rank": 194,
+            "PrevRank": 194,
+            "TotalPoints": 866.71,
+            "PrevPoints": 866.71,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43894",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Aruba"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 0,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "ARU",
+            "RatedMatches": 17,
+            "Rank": 195,
+            "PrevRank": 195,
+            "TotalPoints": 858.0,
+            "PrevPoints": 863.29,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "1890334",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Timor-Leste"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "TLS",
+            "RatedMatches": 16,
+            "Rank": 196,
+            "PrevRank": 196,
+            "TotalPoints": 850.83,
+            "PrevPoints": 850.83,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "1941613",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Gibraltar"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "GIB",
+            "RatedMatches": 42,
+            "Rank": 197,
+            "PrevRank": 197,
+            "TotalPoints": 848.58,
+            "PrevPoints": 848.32,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43832",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Pakistan"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 0,
+            "ConfederationName": "AFC",
+            "IdCountry": "PAK",
+            "RatedMatches": 16,
+            "Rank": 198,
+            "PrevRank": 198,
+            "TotalPoints": 842.59,
+            "PrevPoints": 842.59,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "44039",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Tonga"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23916",
+            "RankingMovement": 0,
+            "ConfederationName": "OFC",
+            "IdCountry": "TGA",
+            "RatedMatches": 7,
+            "Rank": 199,
+            "PrevRank": 199,
+            "TotalPoints": 835.64,
+            "PrevPoints": 835.64,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43837",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Sri Lanka"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 3,
+            "ConfederationName": "AFC",
+            "IdCountry": "SRI",
+            "RatedMatches": 25,
+            "Rank": 200,
+            "PrevRank": 203,
+            "TotalPoints": 832.8,
+            "PrevPoints": 829.39,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43880",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Seychelles"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 0,
+            "ConfederationName": "CAF",
+            "IdCountry": "SEY",
+            "RatedMatches": 28,
+            "Rank": 201,
+            "PrevRank": 201,
+            "TotalPoints": 831.19,
+            "PrevPoints": 831.19,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43882",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Somalia"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": 0,
+            "ConfederationName": "CAF",
+            "IdCountry": "SOM",
+            "RatedMatches": 13,
+            "Rank": 202,
+            "PrevRank": 202,
+            "TotalPoints": 829.81,
+            "PrevPoints": 829.81,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20007",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Guam"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "25998",
+            "RankingMovement": 1,
+            "ConfederationName": "AFC",
+            "IdCountry": "GUM",
+            "RatedMatches": 7,
+            "Rank": 203,
+            "PrevRank": 204,
+            "TotalPoints": 821.91,
+            "PrevPoints": 821.91,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43956",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Liechtenstein"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": -4,
+            "ConfederationName": "UEFA",
+            "IdCountry": "LIE",
+            "RatedMatches": 41,
+            "Rank": 204,
+            "PrevRank": 200,
+            "TotalPoints": 821.71,
+            "PrevPoints": 834.15,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43895",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Bahamas"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 0,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "BAH",
+            "RatedMatches": 21,
+            "Rank": 205,
+            "PrevRank": 205,
+            "TotalPoints": 818.58,
+            "PrevPoints": 818.58,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20011",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Turks and Caicos Islands"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 0,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "TCA",
+            "RatedMatches": 15,
+            "Rank": 206,
+            "PrevRank": 206,
+            "TotalPoints": 803.98,
+            "PrevPoints": 803.98,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20004",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "British Virgin Islands"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 0,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "VGB",
+            "RatedMatches": 20,
+            "Rank": 207,
+            "PrevRank": 207,
+            "TotalPoints": 780.3,
+            "PrevPoints": 780.3,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "1881967",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "US Virgin Islands"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 0,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "VIR",
+            "RatedMatches": 17,
+            "Rank": 208,
+            "PrevRank": 208,
+            "TotalPoints": 779.71,
+            "PrevPoints": 779.71,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20002",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Anguilla"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23914",
+            "RankingMovement": 0,
+            "ConfederationName": "CONCACAF",
+            "IdCountry": "AIA",
+            "RatedMatches": 17,
+            "Rank": 209,
+            "PrevRank": 209,
+            "TotalPoints": 769.31,
+            "PrevPoints": 769.31,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "43966",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "San Marino"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "27275",
+            "RankingMovement": 0,
+            "ConfederationName": "UEFA",
+            "IdCountry": "SMR",
+            "RatedMatches": 41,
+            "Rank": 210,
+            "PrevRank": 210,
+            "TotalPoints": 747.42,
+            "PrevPoints": 737.04,
+            "RankingStatus": 0,
+            "Properties": null,
+            "IsUpdateable": null
+        },
+        {
+            "IdTeam": "20006",
+            "TeamName": [
+                {
+                    "Locale": "en-GB",
+                    "Description": "Eritrea"
+                }
+            ],
+            "Gender": 1,
+            "IdConfederation": "23913",
+            "RankingMovement": null,
+            "ConfederationName": "CAF",
+            "IdCountry": "ERI",
+            "RatedMatches": 0,
+            "Rank": null,
+            "PrevRank": null,
+            "TotalPoints": 855.56,
+            "PrevPoints": null,
+            "RankingStatus": 2,
+            "Properties": null,
+            "IsUpdateable": null
+        }
+    ]
+}
